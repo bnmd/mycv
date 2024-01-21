@@ -2,7 +2,7 @@
 layout: cv
 title: Thuan Vu-Duc
 ---
-# Isaac Newton
+# Thuan VU-DUC
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
