@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Thuan Vu-Duc
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
